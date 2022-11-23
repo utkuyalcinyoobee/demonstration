@@ -1,0 +1,1 @@
+document.getElementsByClassName('test')[0].classList.add('bordered')
